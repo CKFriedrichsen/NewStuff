@@ -1,4 +1,9 @@
 ##this is a markdown
+## this is a markdown
+# this is a triel
+
+### this is more than just a mark down
+
 On branch CKF1
 Changes not staged for commit:
 	modified:   CKF2.md
